@@ -1,0 +1,4 @@
+CACHEDIR.TAG
+**/*.info.json
+**/*.part
+**/*.meta

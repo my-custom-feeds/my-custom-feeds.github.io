@@ -1,0 +1,6 @@
+CACHEDIR.TAG
+**/*.json
+**/*.ignore
+**/*.title
+**/*.name
+

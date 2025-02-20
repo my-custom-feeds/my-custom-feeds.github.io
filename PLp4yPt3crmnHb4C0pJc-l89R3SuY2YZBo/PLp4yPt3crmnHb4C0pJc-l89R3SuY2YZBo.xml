@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../style.xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <updated>2025-04-20 20:00:05.000000</updated>
+    <title><![CDATA[JT TVL]]></title>
+    <link><![CDATA[https://www.youtube.com/playlist?list=PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo]]></link>
+    <itunes:image href="https://my-custom-feeds.github.io/icon.jpg"/>
+    <item>
+      <id><![CDATA[ZHmvVu01A4I]]></id>
+      <title><![CDATA[Ukraine, Algérie : Macron méprisé partout - JT du lundi 14 avril 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/ZHmvVu01A4I.opus" type="audio/opus"/>
+      <pubDate>Mon, 14 Apr 2025 18:00:35 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/ZHmvVu01A4I.jpg"/>
+      <itunes:summary><![CDATA[Ukraine, Algérie : Macron méprisé partout - JT du lundi 14 avril 2025]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[Da1W19lS8nI]]></id>
+      <title><![CDATA[Ukraine : Trump remet Zelensky à sa place - JT du mardi 15 avril 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/Da1W19lS8nI.opus" type="audio/opus"/>
+      <pubDate>Tue, 15 Apr 2025 18:00:33 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/Da1W19lS8nI.jpg"/>
+      <itunes:summary><![CDATA[Ukraine : Trump remet Zelensky à sa place - JT du mardi 15 avril 2025]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[kgjEeBYzCVA]]></id>
+      <title><![CDATA[Algérie - Macron : l’humiliation de trop ? - JT du mercredi 16 avril 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/kgjEeBYzCVA.opus" type="audio/opus"/>
+      <pubDate>Wed, 16 Apr 2025 18:02:01 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/kgjEeBYzCVA.jpg"/>
+      <itunes:summary><![CDATA[Algérie - Macron : l’humiliation de trop ? - JT du mercredi 16 avril 2025]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[wX8D4elhBaE]]></id>
+      <title><![CDATA[Immigration : l’autre humiliation de Macron - JT du jeudi 17 avril 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/wX8D4elhBaE.opus" type="audio/opus"/>
+      <pubDate>Thu, 17 Apr 2025 18:00:44 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/wX8D4elhBaE.jpg"/>
+      <itunes:summary><![CDATA[Immigration : l’autre humiliation de Macron - JT du jeudi 17 avril 2025]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[Ng3qBS8M_sk]]></id>
+      <title><![CDATA[Dossier ukrainien : Macron, un clown déclassé - JT du vendredi 18 avril 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/Ng3qBS8M_sk.opus" type="audio/opus"/>
+      <pubDate>Fri, 18 Apr 2025 18:00:41 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/Ng3qBS8M_sk.jpg"/>
+      <itunes:summary><![CDATA[Dossier ukrainien : Macron, un clown déclassé - JT du vendredi 18 avril 2025]]></itunes:summary> 
+    </item>
+  </channel>
+</rss>

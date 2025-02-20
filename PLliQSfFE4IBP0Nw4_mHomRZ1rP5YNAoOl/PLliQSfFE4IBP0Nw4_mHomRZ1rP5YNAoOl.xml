@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../style.xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <updated>2025-02-27 20:00:01.000000</updated>
+    <title><![CDATA[A écouter]]></title>
+    <link><![CDATA[https://www.youtube.com/playlist?list=PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl]]></link>
+    <itunes:image href="https://my-custom-feeds.github.io/icon.jpg"/>
+    <item>
+      <id><![CDATA[bRUyvwcHKVE]]></id>
+      <title><![CDATA[Corruption d'Etat : une arme pour la neutraliser ? - Le Zoom - Philippe Pascot - TVL]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/bRUyvwcHKVE.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:29:04 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/bRUyvwcHKVE.jpg"/>
+      <itunes:summary><![CDATA[Corruption d'Etat : une arme pour la neutraliser ? - Le Zoom - Philippe Pascot - TVL]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[1p-aKpXnXp8]]></id>
+      <title><![CDATA[Scandale de l'aide au développement : "c'est un détournement d'argent public !" - Virginie Joron]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/1p-aKpXnXp8.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:29:06 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/1p-aKpXnXp8.jpg"/>
+      <itunes:summary><![CDATA[Scandale de l'aide au développement : "c'est un détournement d'argent public !" - Virginie Joron]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[iXiViHr3nBY]]></id>
+      <title><![CDATA[Fort Knox : Et si l’OR avait disparu ? Quel risque pour les marchés ?]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/iXiViHr3nBY.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:29:06 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/iXiViHr3nBY.jpg"/>
+      <itunes:summary><![CDATA[Fort Knox : Et si l’OR avait disparu ? Quel risque pour les marchés ?]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[zz6DgYOdAgk]]></id>
+      <title><![CDATA[Élections en Allemagne : La percée de la droite nationale]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/zz6DgYOdAgk.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:29:07 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLliQSfFE4IBP0Nw4_mHomRZ1rP5YNAoOl/zz6DgYOdAgk.jpg"/>
+      <itunes:summary><![CDATA[Élections en Allemagne : La percée de la droite nationale]]></itunes:summary> 
+    </item>
+  </channel>
+</rss>

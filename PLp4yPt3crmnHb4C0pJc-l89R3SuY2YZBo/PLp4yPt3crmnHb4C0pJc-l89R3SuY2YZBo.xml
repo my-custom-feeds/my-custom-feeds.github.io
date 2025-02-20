@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../style.xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <updated>2025-02-27 20:01:16.000000</updated>
+    <title><![CDATA[JT TVL]]></title>
+    <link><![CDATA[https://www.youtube.com/playlist?list=PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo]]></link>
+    <itunes:image href="https://my-custom-feeds.github.io/icon.jpg"/>
+    <item>
+      <id><![CDATA[5ppCj97si-w]]></id>
+      <title><![CDATA[Coronavirus : retour sur l'actualité depuis le début de la crise]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/5ppCj97si-w.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:29:08 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/5ppCj97si-w.jpg"/>
+      <itunes:summary><![CDATA[Coronavirus : retour sur l'actualité depuis le début de la crise]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[GjdVUOZWtvc]]></id>
+      <title><![CDATA[Ukraine : Trump impose la paix à Macron et l’UE - JT du mardi 25 février 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/GjdVUOZWtvc.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:29:09 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/GjdVUOZWtvc.jpg"/>
+      <itunes:summary><![CDATA[Ukraine : Trump impose la paix à Macron et l’UE - JT du mardi 25 février 2025]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[mTNAxHWtIXk]]></id>
+      <title><![CDATA[Ukraine : Trump et Poutine s’entendent, Macron sur la touche - JT du mercredi 26 février 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/mTNAxHWtIXk.opus" type="audio/opus"/>
+      <pubDate>Wed, 26 Feb 2025 17:36:17 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/mTNAxHWtIXk.jpg"/>
+      <itunes:summary><![CDATA[Ukraine : Trump et Poutine s’entendent, Macron sur la touche - JT du mercredi 26 février 2025]]></itunes:summary> 
+    </item>
+    <item>
+      <id><![CDATA[W8iEcL57Yx8]]></id>
+      <title><![CDATA[Pas d’OTAN pour Zelensky - JT du jeudi 27 février 2025]]></title>
+      <enclosure url="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/W8iEcL57Yx8.opus" type="audio/opus"/>
+      <pubDate>Thu, 27 Feb 2025 19:01:16 GMT</pubDate>
+      <itunes:image href="https://my-custom-feeds.github.io/PLp4yPt3crmnHb4C0pJc-l89R3SuY2YZBo/W8iEcL57Yx8.jpg"/>
+      <itunes:summary><![CDATA[Pas d’OTAN pour Zelensky - JT du jeudi 27 février 2025]]></itunes:summary> 
+    </item>
+  </channel>
+</rss>
